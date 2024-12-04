@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program that demonstrates a common data type handling error often encountered when using PERFORM...VARYING loops.  The program intends to calculate the sum of numbers from 1 to 10, but due to an improper handling of data types, it produces an unexpected result. The solution shows how to correct the data type handling. 
